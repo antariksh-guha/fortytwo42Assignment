@@ -1,0 +1,15 @@
+{
+  "name":"student1",
+  "age":33,
+  "address":"Mumbai, India",
+  "subjects":[
+    {
+      "name":"maths",
+      "marks":98
+    },
+    {
+      "name":"physics",
+      "marks":66
+    }
+  ]
+}
